@@ -1,6 +1,6 @@
 <?php
 
-namespace Fukuball\NoCaptcha;
+namespace Anhskohbo\NoCaptcha;
 
 use Symfony\Component\HttpFoundation\Request;
 use GuzzleHttp\Client;
