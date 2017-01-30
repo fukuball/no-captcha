@@ -1,6 +1,6 @@
 <?php
 
-namespace Anhskohbo\NoCaptcha;
+namespace Fukuball\NoCaptcha;
 
 use Illuminate\Support\ServiceProvider;
 
